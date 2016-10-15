@@ -1,0 +1,31 @@
+#searchBox {
+  padding: 10px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+#result {
+  margin-top: 40px;
+  color: white;
+}
+
+#titleText {
+  text-align: center;
+  color: white;
+  margin-top: 15%;
+}
+
+#subText {
+	color: white;
+}
+
+.ui-helper-hidden-accessible { display:none; }
+
+body {
+	background: url('background1.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: "Raleway", sans-serif;
+}
